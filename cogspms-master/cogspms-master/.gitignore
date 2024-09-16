@@ -1,0 +1,10 @@
+# Project exclude paths
+/venv/
+.idea
+/output
+*.csv
+__pycache__/
+*.xls
+*.DS_Store
+*.png
+!.json
